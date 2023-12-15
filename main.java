@@ -9,6 +9,7 @@ import Repository.Repository;
 import Repository.DuplicateEntityException;
 import Repository.FileRepository;
 import Repository.BinaryRepository;
+import Repository.TortDBRepository;
 import Service.ComandaService;
 import Service.TortService;
 import UI.Consola;
@@ -46,6 +47,12 @@ public class main {
         IRepository<Comanda> rC = null;
         IEntitateConverter<Tort> ec = new TortConverter();
 
+        TortDBRepository repoDB=new TortDBRepository();
+        repoDB.openConnection();
+        repoDB.createTable();
+        repoDB.initTable();
+        repoDB.closeConnection();
+
         Settings setari = Settings.getInstance();
         if (Objects.equals(setari.getRepoType(), "memory")) {
             rT = new Repository<Tort>();
@@ -70,4 +77,5 @@ public class main {
         u.runMenu();
 
     }
+    /*jdbc:sqlite:TortDB.db*/
 }
