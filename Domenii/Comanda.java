@@ -27,7 +27,7 @@ public class Comanda extends Entitate implements Serializable {
     }
 
     public ArrayList<Tort> getTorturi() {
-        return torturi;
+        return this.torturi;
     }
 
     public void setTorturi(ArrayList<Tort> torturi) {

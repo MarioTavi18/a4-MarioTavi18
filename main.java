@@ -10,6 +10,7 @@ import Repository.DuplicateEntityException;
 import Repository.FileRepository;
 import Repository.BinaryRepository;
 import Repository.TortDBRepository;
+import Repository.ComandaDBRepository;
 import Service.ComandaService;
 import Service.TortService;
 import UI.Consola;
@@ -47,11 +48,8 @@ public class main {
         IRepository<Comanda> rC = null;
         IEntitateConverter<Tort> ec = new TortConverter();
 
-        TortDBRepository repoDB=new TortDBRepository();
-        repoDB.openConnection();
-        repoDB.createTable();
-        repoDB.initTable();
-        repoDB.closeConnection();
+        TortDBRepository repoDBT=new TortDBRepository();
+        ComandaDBRepository repoDBC=new ComandaDBRepository();
 
         Settings setari = Settings.getInstance();
         if (Objects.equals(setari.getRepoType(), "memory")) {
@@ -68,6 +66,10 @@ public class main {
             rT = new BinaryRepository<Tort>(setari.getRepoFileT());
             rC = new BinaryRepository<Comanda>(setari.getRepoFileC());
         }
+        if (Objects.equals(setari.getRepoType(), "db")) {
+            rT = repoDBT;
+            rC = repoDBC;
+        }
 
         TortService sT=new TortService(rT);
         ComandaService sC=new ComandaService(rC);
@@ -75,7 +77,9 @@ public class main {
         Consola u= new Consola(sT,sC);
 
         u.runMenu();
+        repoDBT.closeConnection();
+        repoDBC.closeConnection();
 
     }
-    /*jdbc:sqlite:TortDB.db*/
+    /*jdbc:sqlite:databaseTC.db*/
 }
