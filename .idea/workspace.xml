@@ -5,134 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3eadba51-43a3-4fc6-9c6f-ca3ce512a8fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/Domenii/Comanda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/Domenii/ComandaFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/Domenii/Entitate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/Domenii/IEntitateConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/Domenii/IEntityFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/Domenii/Tort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/Domenii/TortConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/Domenii/TortFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/Repository/BinaryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/Repository/ComandaDBRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/Repository/DuplicateEntityException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/Repository/FileRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/Repository/IDBRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/Repository/IRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/Repository/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/Repository/TortDBRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/Service/ComandaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/Service/TortService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/Settings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/UI/Consola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/settings.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/test/teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/Domenii/Comanda.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/Domenii/ComandaFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/Domenii/Entitate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/Domenii/IEntitateConverter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/Domenii/IEntityFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/Domenii/Tort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/Domenii/TortConverter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/Domenii/TortFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/Repository/BinaryRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/Repository/ComandaDBRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/Repository/DuplicateEntityException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/Repository/FileRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/Repository/IDBRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/Repository/IRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/Repository/Repository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/Repository/TortDBRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/Service/ComandaService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/Service/TortService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/Settings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/UI/Consola.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/databaseTC.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/settings.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/test/testFileComanda.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/test/testFileComanda.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/test/testFileTort.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/test/testFileTort.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/test/teste.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/tort.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/tort.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/out/production/a4-MarioTavi18/tort.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/settings.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/test/testFileComanda.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/test/testFileComanda.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/test/testFileTort.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/test/testFileTort.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/tort.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/tort.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/tort.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/a4-MarioTavi18.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domenii/Comanda.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/Domenii/Comanda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domenii/ComandaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/Domenii/ComandaFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domenii/Entitate.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/Domenii/Entitate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domenii/IEntitateConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/Domenii/IEntitateConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domenii/IEntityFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/Domenii/IEntityFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domenii/Tort.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/Domenii/Tort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domenii/TortConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/Domenii/TortConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domenii/TortFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/Domenii/TortFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/BinaryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/Repository/BinaryRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/ComandaDBRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/Repository/ComandaDBRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/DuplicateEntityException.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/Repository/DuplicateEntityException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/FileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/Repository/FileRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/IDBRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/Repository/IDBRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/IRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/Repository/IRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/Repository/Repository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/TortDBRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/Repository/TortDBRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service/ComandaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/Service/ComandaService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service/TortService.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/Service/TortService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/Settings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UI/Consola.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/UI/Consola.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comanda.bin" beforeDir="false" afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/comanda.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comanda.txt" beforeDir="false" afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/comanda.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/databaseTC.db" beforeDir="false" afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/databaseTC.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a4-MarioTavi18/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a4-MarioTavi18/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a4-MarioTavi18/.idea/a4-MarioTavi18.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a4-MarioTavi18/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a4-MarioTavi18/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a4-MarioTavi18/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a4-MarioTavi18/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a4-MarioTavi18/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a4-MarioTavi18/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a4-MarioTavi18/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a4-MarioTavi18/comanda.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a4-MarioTavi18/comanda.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a4-MarioTavi18/databaseTC.db" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/databaseTC.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a4-MarioTavi18/settings.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a4-MarioTavi18/test/testFileComanda.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a4-MarioTavi18/test/testFileComanda.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a4-MarioTavi18/test/testFileTort.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a4-MarioTavi18/test/testFileTort.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a4-MarioTavi18/tort.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a4-MarioTavi18/tort.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a4-MarioTavi18/tort.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/testFileComanda.bin" beforeDir="false" afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/test/testFileComanda.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/testFileComanda.txt" beforeDir="false" afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/test/testFileComanda.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/testFileTort.bin" beforeDir="false" afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/test/testFileTort.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/testFileTort.txt" beforeDir="false" afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/test/testFileTort.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/test/teste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tort.bin" beforeDir="false" afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/tort.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tort.db" beforeDir="false" afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/tort.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tort.txt" beforeDir="false" afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/tort.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseTC.db" beforeDir="false" afterPath="$PROJECT_DIR$/databaseTC.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,34 +42,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "21",
-    "last_opened_file_path": "C:/Users/mario/Desktop/FACULTATE ANUL1/ANUL 2/Map/Incercare1FX/demo/src/main/java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.13695395",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.scopes",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mario/Desktop/FACULTATE ANUL1/ANUL 2/Map/Incercare1FX/demo/src/main/java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.13695395&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "sqlite"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mario\Desktop\FACULTATE ANUL1\ANUL 2\Map\Incercare1FX\demo\src\main\java" />
@@ -277,7 +151,8 @@
       <workItem from="1702661843591" duration="1534000" />
       <workItem from="1702665830609" duration="7284000" />
       <workItem from="1702719067915" duration="8100000" />
-      <workItem from="1702730647796" duration="16519000" />
+      <workItem from="1702730647796" duration="16960000" />
+      <workItem from="1702810061060" duration="10672000" />
     </task>
     <servers />
   </component>
@@ -295,8 +170,9 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/a4_MarioTavi18$HelloApplication.ic" NAME="HelloApplication Coverage Results" MODIFIED="1702747321716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/a4_MarioTavi18$HelloApplication.ic" NAME="HelloApplication Coverage Results" MODIFIED="1702813594550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.example.demo.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/a4_MarioTavi18$Main.ic" NAME="Main Coverage Results" MODIFIED="1702813612830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
