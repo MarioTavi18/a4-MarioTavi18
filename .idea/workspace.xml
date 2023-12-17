@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3eadba51-43a3-4fc6-9c6f-ca3ce512a8fc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a4-MarioTavi18/src/Repository/TortDBRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/Repository/TortDBRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a4-MarioTavi18/src/out/production/a4-MarioTavi18/Repository/TortDBRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/a4-MarioTavi18/src/out/production/a4-MarioTavi18/Repository/TortDBRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/databaseTC.db" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +53,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "21",
-    "last_opened_file_path": "C:/Users/mario/Desktop/MAP/a4-MarioTavi18",
+    "last_opened_file_path": "C:/Users/mario/Desktop/FACULTATE ANUL1/ANUL 2/Map/Incercare1FX/demo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -157,7 +152,7 @@
       <workItem from="1702665830609" duration="7284000" />
       <workItem from="1702719067915" duration="8100000" />
       <workItem from="1702730647796" duration="16960000" />
-      <workItem from="1702810061060" duration="14872000" />
+      <workItem from="1702810061060" duration="17297000" />
     </task>
     <servers />
   </component>
