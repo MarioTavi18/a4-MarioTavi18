@@ -15,7 +15,7 @@ public class TortDBRepository extends Repository<Tort> implements IDBRepository<
     public TortDBRepository() throws DuplicateEntityException, IOException {
         openConnection();
         createTable();
-        //initTable();
+        initTable();
         for(Tort t:getAll()){super.add(t);}
     }
 
